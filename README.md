@@ -1,6 +1,6 @@
 # MichiTamagotchi-prototype
 Downloads:  
-[Demo video](https://github.com/kopprfields/MichiTamagotchi-prototype/releases/download/prototype/demo_video.mp4)  
+[Demo video](https://github.com/kopprfields/MichiTamagotchi-prototype/releases/download/prototype/demo_video.mp4) *sped up playthrough, features a successful evolution, a successful run, a failed evolution, a failed run*  
 [GDD](https://github.com/kopprfields/MichiTamagotchi-prototype/releases/download/prototype/Michi.Tamagotchi.-.GDD.pdf)  
 [HTML build](https://github.com/kopprfields/MichiTamagotchi-prototype/releases/download/prototype/prototype_build_HTML.zip)  
 [Windows build](https://github.com/kopprfields/MichiTamagotchi-prototype/releases/download/prototype/prototype_build_Windows.zip)
