@@ -11,7 +11,4 @@ A few things to note:
 - This prototype has been designed around a full run of roughly 5 to 10 minutes, because I'm not going to make you play 10 hours for a digital taste-test. If we're going for the philosophy of a side-pet to keep open next to a Michi stream, the game will of course have to be paced much slower and designed not to require constant attention.
 - The settings menu and credits scene are missing, I haven't worked on them. So instead the buttons will make an authoritative quack. I didn't work much on the save system either. The save system won't quack though.
 - You will find bugs.
-- Do not press the space key.
-- Do **not** press the ctrl key.
-- Do <ins>**NOT**</ins> press the escape key.
 - *graphic design is my passion*.
